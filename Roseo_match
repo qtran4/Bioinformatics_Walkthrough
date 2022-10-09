@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B7RH33|B7RH33_9RHOB -          sigma70_align        -            6.1e-24   81.5   0.4   1.4e-23   80.4   0.4   1.6   1   0   0   1   1   1   1 -
+tr|B7RGX5|B7RGX5_9RHOB -          sigma70_align        -            3.5e-20   69.5   0.1     7e-20   68.5   0.1   1.6   1   0   0   1   1   1   1 -
+tr|B7RH17|B7RH17_9RHOB -          sigma70_align        -            4.4e-19   66.0   0.2   1.1e-18   64.7   0.2   1.7   1   0   0   1   1   1   1 -
+tr|B7RJL9|B7RJL9_9RHOB -          sigma70_align        -            9.2e-19   64.9   0.2   1.6e-18   64.1   0.2   1.4   1   0   0   1   1   1   1 -
+tr|B7RI57|B7RI57_9RHOB -          sigma70_align        -            1.3e-18   64.4   0.5   6.7e-18   62.2   0.2   2.1   2   0   0   2   2   2   1 -
+tr|B7RH51|B7RH51_9RHOB -          sigma70_align        -            2.5e-17   60.4   0.1     5e-17   59.4   0.1   1.5   1   0   0   1   1   1   1 -
+tr|B7RSA6|B7RSA6_9RHOB -          sigma70_align        -            1.3e-14   51.6   0.4   2.5e-14   50.8   0.4   1.4   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      sigma_Pro
+# Target file:     Roseobacter.fasta
+# Option settings: /afs/crc.nd.edu/user/x/xguan4/Private/BioComputing2022/tools/hmmsearch --tblout Roseo_match sigma_Pro Roseobacter.fasta 
+# Current dir:     /afs/crc.nd.edu/user/x/xguan4/Private/BioComputing2022/Exercise7/Bioinformatics_Walkthrough
+# Date:            Sun Oct  9 11:09:23 2022
+# [ok]
